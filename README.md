@@ -1,7 +1,7 @@
 # Hello👋, I'm Duong Chi Hung (Henry)
 I'm undergraduate student in Information Assurance major at FPT University
 ## I'm focusing on:
-- System Operations (Linux, Window)
+- System Operations (Linux, Windows)
 - Ethical Hacking (CTF)
 - Reverse Engineering
 ## Contact me:

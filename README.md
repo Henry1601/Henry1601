@@ -1,6 +1,8 @@
 # Hello👋, I'm Duong Chi Hung (Henry)
 I'm graduated in Information Assurance major at FPT University
+
 Working at Penetration Tester at [Techlab Corporation](https://www.techlabcorp.com/)
+
 Passionate Security Researcher & Bug Bounty Hunter
 ## I'm focusing on:
 - Penetration Testing (Web and Mobile Application)
